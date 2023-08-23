@@ -1,1 +1,0 @@
-cout << "Rent in five years: $" << rent << endl;
